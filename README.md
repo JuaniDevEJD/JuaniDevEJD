@@ -211,21 +211,6 @@
   </blockquote>
 </details>
 
-<details>
-  <summary>Free DOSE hit</summary>
-  <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
-
-<details>
-<summary>What can I do for you?</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
